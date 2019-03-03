@@ -21,6 +21,7 @@
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
+- [Filecoin](#filecoin)
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
@@ -129,6 +130,9 @@
 
 ## Ethereum Classic
 - https://dappdirect.net/
+
+## Filecoin
+- https://stats.kittyhawk.wtf/ (devnet)
 
 ## Gas
 - https://ethgasstation.info/
